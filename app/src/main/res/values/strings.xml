@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginSystem</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stringLoginFragment">LOGIN</string>
+    <string name="stringCreateAccountLoginFragment">Create New Account</string>
+    <string name="stringEmailLoginFragment">Email</string>
+    <string name="stringPassworLoginFragment">Password</string>
+    <string name="stringName">Name</string>
+    <string name="stringEmail">Email</string>
+    <string name="stringPassword">Password</string>
+    <string name="stringSubmit">Submit</string>
+    <string name="stringCancel">Cancel</string>
+    <string name="stringEditProfile">Edit Profile</string>
+    <string name="stringLogOut">Log Out</string>
+    <string name="stringWelcomeRegister">Welcome !!</string>
+</resources>
